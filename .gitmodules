@@ -1,0 +1,6 @@
+[submodule "reference/hyrax"]
+	path = reference/hyrax
+	url = https://github.com/lincc-frameworks/hyrax.git
+[submodule "reference/external_hyrax_example"]
+	path = reference/external_hyrax_example
+	url = https://github.com/lincc-frameworks/external_hyrax_example.git
